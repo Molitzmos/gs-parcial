@@ -1,0 +1,4 @@
+Ejemplo de historia de usuario:
+Como empresario de billetera digital
+Quiero una app movil
+Para que mis usuarios puedan acceder y comprar con facilidad
