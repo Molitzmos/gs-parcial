@@ -1,0 +1,6 @@
+Etapas del modelo cascada:
+-se recibe el pedido del cliente
+-se crea la documentacion
+-se programa todo junto
+-se testea
+-se entrega el producto al cliente
